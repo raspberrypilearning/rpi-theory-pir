@@ -1,10 +1,13 @@
-title: rpi-pir-motion-sensors
+title: What is a PIR motion sensor
 hero_image: images/banner.png
-subtitle: rpi-pir-motion-sensors subtitle
-description: rpi-pir-motion-sensors description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Some information about PIR motion sensors
+original_url:
 theme: cc-prototype
-published: false
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+interests: ""
+technologies: "electronics"
 steps:
-  - title: PIR Motion Sensors
-    duration: 60
+  - title: PIR motion sensors
